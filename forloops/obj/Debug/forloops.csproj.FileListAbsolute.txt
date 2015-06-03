@@ -1,0 +1,6 @@
+C:\Work\Claim\loops\loopsandarrays\forloops\bin\Debug\forloops.exe.config
+C:\Work\Claim\loops\loopsandarrays\forloops\bin\Debug\forloops.exe
+C:\Work\Claim\loops\loopsandarrays\forloops\bin\Debug\forloops.pdb
+C:\Work\Claim\loops\loopsandarrays\forloops\obj\Debug\forloops.csprojResolveAssemblyReference.cache
+C:\Work\Claim\loops\loopsandarrays\forloops\obj\Debug\forloops.exe
+C:\Work\Claim\loops\loopsandarrays\forloops\obj\Debug\forloops.pdb

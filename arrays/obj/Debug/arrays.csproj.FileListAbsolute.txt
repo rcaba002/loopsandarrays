@@ -1,0 +1,6 @@
+C:\Work\Claim\loops\loopsandarrays\arrays\bin\Debug\arrays.exe.config
+C:\Work\Claim\loops\loopsandarrays\arrays\bin\Debug\arrays.exe
+C:\Work\Claim\loops\loopsandarrays\arrays\bin\Debug\arrays.pdb
+C:\Work\Claim\loops\loopsandarrays\arrays\obj\Debug\arrays.exe
+C:\Work\Claim\loops\loopsandarrays\arrays\obj\Debug\arrays.pdb
+C:\Work\Claim\loops\loopsandarrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Work\Claim\loops\loopsandarrays\forloops\bin\Release\forloops.exe.config
+C:\Work\Claim\loops\loopsandarrays\forloops\bin\Release\forloops.exe
+C:\Work\Claim\loops\loopsandarrays\forloops\bin\Release\forloops.pdb
+C:\Work\Claim\loops\loopsandarrays\forloops\obj\Release\forloops.exe
+C:\Work\Claim\loops\loopsandarrays\forloops\obj\Release\forloops.pdb

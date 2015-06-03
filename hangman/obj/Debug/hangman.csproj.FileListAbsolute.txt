@@ -1,0 +1,12 @@
+C:\Work\Claim\loops\loopsandarrays\hangman\bin\Debug\hangman.exe.config
+C:\Work\Claim\loops\loopsandarrays\hangman\bin\Debug\hangman.exe
+C:\Work\Claim\loops\loopsandarrays\hangman\bin\Debug\hangman.pdb
+C:\Work\Claim\loops\loopsandarrays\hangman\obj\Debug\hangman.exe
+C:\Work\Claim\loops\loopsandarrays\hangman\obj\Debug\hangman.pdb
+C:\Work\Claim\loops\loopsandarrays\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Work\Claim\loopsandarrays\hangman\bin\Debug\hangman.exe.config
+C:\Work\Claim\loopsandarrays\hangman\obj\Debug\hangman.exe
+C:\Work\Claim\loopsandarrays\hangman\obj\Debug\hangman.pdb
+C:\Work\Claim\loopsandarrays\hangman\bin\Debug\hangman.exe
+C:\Work\Claim\loopsandarrays\hangman\bin\Debug\hangman.pdb
+C:\Work\Claim\loopsandarrays\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
